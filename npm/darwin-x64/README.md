@@ -1,3 +1,3 @@
-# `native-utils-darwin-x64`
+# `addon-sample-darwin-x64`
 
-This is the **x86_64-apple-darwin** binary for `native-utils`
+This is the **x86_64-apple-darwin** binary for `addon-sample`

@@ -1,10 +1,10 @@
 {
-  "name": "native-utils",
-  "version": "0.0.0",
+  "name": "addon-sample",
+  "version": "1.0.0",
   "main": "index.js",
   "types": "index.d.ts",
   "napi": {
-    "name": "native-utils",
+    "name": "addon-sample",
     "triples": {
       "additional": [
         "aarch64-apple-darwin"

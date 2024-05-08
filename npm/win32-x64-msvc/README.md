@@ -1,3 +1,3 @@
-# `native-utils-win32-x64-msvc`
+# `addon-sample-win32-x64-msvc`
 
-This is the **x86_64-pc-windows-msvc** binary for `native-utils`
+This is the **x86_64-pc-windows-msvc** binary for `addon-sample`

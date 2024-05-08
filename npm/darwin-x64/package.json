@@ -1,5 +1,5 @@
 {
-  "name": "native-utils-darwin-x64",
+  "name": "addon-sample-darwin-x64",
   "version": "0.0.0",
   "os": [
     "darwin"
@@ -7,9 +7,9 @@
   "cpu": [
     "x64"
   ],
-  "main": "native-utils.darwin-x64.node",
+  "main": "addon-sample.darwin-x64.node",
   "files": [
-    "native-utils.darwin-x64.node"
+    "addon-sample.darwin-x64.node"
   ],
   "license": "MIT",
   "engines": {

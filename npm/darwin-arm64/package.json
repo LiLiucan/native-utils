@@ -1,5 +1,5 @@
 {
-  "name": "native-utils-darwin-arm64",
+  "name": "addon-sample-darwin-arm64",
   "version": "0.0.0",
   "os": [
     "darwin"
@@ -7,9 +7,9 @@
   "cpu": [
     "arm64"
   ],
-  "main": "native-utils.darwin-arm64.node",
+  "main": "addon-sample.darwin-arm64.node",
   "files": [
-    "native-utils.darwin-arm64.node"
+    "addon-sample.darwin-arm64.node"
   ],
   "license": "MIT",
   "engines": {
