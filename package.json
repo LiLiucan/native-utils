@@ -32,5 +32,12 @@
     "universal": "napi universal",
     "version": "napi version"
   },
-  "packageManager": "yarn@4.2.1"
+  "packageManager": "yarn@4.2.1",
+  "optionalDependencies": {
+    "native-utils-win32-x64-msvc": "0.0.0",
+    "native-utils-darwin-x64": "0.0.0",
+    "native-utils-linux-x64-gnu": "0.0.0",
+    "native-utils-darwin-arm64": "0.0.0",
+    "native-utils-win32-arm64-msvc": "0.0.0"
+  }
 }
