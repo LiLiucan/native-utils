@@ -1,6 +1,6 @@
 {
   "name": "native-util",
-  "version": "0.0.3",
+  "version": "0.0.2",
   "main": "index.js",
   "types": "index.d.ts",
   "napi": {
@@ -27,7 +27,6 @@
     "artifacts": "napi artifacts",
     "build": "napi build --platform --release",
     "build:debug": "napi build --platform",
-    "prepublishOnly": "napi prepublish -t npm",
     "test": "ava",
     "universal": "napi universal",
     "version": "napi version"
