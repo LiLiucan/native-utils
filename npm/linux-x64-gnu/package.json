@@ -1,5 +1,5 @@
 {
-  "name": "native-utils-linux-x64-gnu",
+  "name": "native-util-linux-x64-gnu",
   "version": "0.0.1",
   "os": [
     "linux"
@@ -7,9 +7,9 @@
   "cpu": [
     "x64"
   ],
-  "main": "native-utils.linux-x64-gnu.node",
+  "main": "native-util.linux-x64-gnu.node",
   "files": [
-    "native-utils.linux-x64-gnu.node"
+    "native-util.linux-x64-gnu.node"
   ],
   "license": "MIT",
   "engines": {

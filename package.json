@@ -1,10 +1,10 @@
 {
-  "name": "native-utils",
+  "name": "native-util",
   "version": "0.0.1",
   "main": "index.js",
   "types": "index.d.ts",
   "napi": {
-    "name": "native-utils",
+    "name": "native-util",
     "triples": {
       "additional": [
         "aarch64-apple-darwin",
@@ -34,10 +34,10 @@
   },
   "packageManager": "yarn@4.2.1",
   "optionalDependencies": {
-    "native-utils-win32-x64-msvc": "0.0.0",
-    "native-utils-darwin-x64": "0.0.0",
-    "native-utils-linux-x64-gnu": "0.0.0",
-    "native-utils-darwin-arm64": "0.0.0",
-    "native-utils-win32-arm64-msvc": "0.0.0"
+    "native-util-win32-x64-msvc": "0.0.1",
+    "native-util-darwin-x64": "0.0.1",
+    "native-util-linux-x64-gnu": "0.0.1",
+    "native-util-darwin-arm64": "0.0.1",
+    "native-util-win32-arm64-msvc": "0.0.1"
   }
 }

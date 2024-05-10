@@ -1,5 +1,5 @@
 {
-  "name": "native-utils-darwin-x64",
+  "name": "native-util-darwin-x64",
   "version": "0.0.1",
   "os": [
     "darwin"
@@ -7,9 +7,9 @@
   "cpu": [
     "x64"
   ],
-  "main": "native-utils.darwin-x64.node",
+  "main": "native-util.darwin-x64.node",
   "files": [
-    "native-utils.darwin-x64.node"
+    "native-util.darwin-x64.node"
   ],
   "license": "MIT",
   "engines": {
