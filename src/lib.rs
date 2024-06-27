@@ -4,6 +4,10 @@
 extern crate napi_derive;
 
 #[napi]
-pub fn sum(a: i32, b: i32) -> i32 {
-  a + b
+pub fn open(path: String) {
+  match open::that(path) {
+    Ok(()) => println!("Opened successfully."),
+    Err(err) => eprintln!("An error occurred when opening url: {}", err),
+  }
 }
+
